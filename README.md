@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="A night lake drawn in colored ASCII: a full moon over mountains, pine trees and a deer on the shore, with Dav1d-Fn and previews of Albedo, Fliq and GIF Color Changer in the sky" width="100%">
+  <img src="assets/hero.svg" alt="A night lake drawn in colored ASCII: a full moon over mountains, pine trees and a deer on the shore and Dav1d-Fn written in the sky" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dav1d-Fn/Albedo"><img src="assets/cards/albedo.svg" width="380" alt="Albedo: controller-first launcher for Moonlight on the Steam Deck"></a>
-  <a href="https://github.com/Dav1d-Fn/Fliq-Desktop-Flipclock"><img src="assets/cards/fliq.svg" width="380" alt="Fliq: a floating flip clock for your desktop"></a>
-  <a href="https://github.com/Dav1d-Fn/gif-color-changer"><img src="assets/cards/gif-color-changer.svg" width="380" alt="GIF Color Changer: recolor animated GIFs frame by frame"></a>
-  <a href="https://github.com/Dav1d-Fn/StreamController-BetterVolumeMixer"><img src="assets/cards/better-volume-mixer.svg" width="380" alt="Better Volume Mixer: per-app volume for the Stream Deck on Linux"></a>
+  <a href="https://github.com/Dav1d-Fn/Albedo"><img src="assets/albedo.png" width="270" alt="Albedo"></a>
+  <a href="https://github.com/Dav1d-Fn/Fliq-Desktop-Flipclock"><img src="assets/fliq.png" width="270" alt="Fliq"></a>
+  <a href="https://github.com/Dav1d-Fn/gif-color-changer"><img src="assets/gif-color-changer.png" width="270" alt="GIF Color Changer"></a>
 </p>
 
 <p align="center">
